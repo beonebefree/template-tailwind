@@ -3,7 +3,7 @@ import App from '../views/App'
 import Form from '../views/Form'
 import Clients from '../views/Clients'
 import Login from '../views/Login'
-import Landing from '../views/Landing'
+import Landing from '../layouts/Landing'
 import { user } from './childrenRoute'
 
 export const router = createBrowserRouter ([

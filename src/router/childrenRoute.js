@@ -4,16 +4,12 @@ import Login from '../views/Login'
 
 export const user = [
     {
-        path: 'productos',
+        path: '',
         element: <Productos />
     },
     {
         path: 'home',
         element: <Productos />
-    },
-    {
-        path: 'home',
-        element: <LoginForm />
     },
     {
         path: 'about',
